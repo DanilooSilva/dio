@@ -1,0 +1,14 @@
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+E:\Danilo Gomes\Documents\GitHub\dio\Instalando e Conhecendo a IDE\GerandoCodigoEDebugging\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
