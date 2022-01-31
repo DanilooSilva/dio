@@ -1,0 +1,14 @@
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.exe
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.deps.json
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.json
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.runtimeconfig.dev.json
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.dll
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\bin\Debug\netcoreapp3.1\Testes.pdb
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.AssemblyReference.cache
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfoInputs.cache
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.AssemblyInfo.cs
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.csproj.CoreCompileInputs.cache
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.dll
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.pdb
+E:\Danilo Gomes\Documents\GitHub\dio\Testes\Testes\Testes\obj\Debug\netcoreapp3.1\Testes.genruntimeconfig.cache
