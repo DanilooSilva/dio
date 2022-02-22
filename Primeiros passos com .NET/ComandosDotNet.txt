@@ -1,0 +1,11 @@
+ajuda do dotnet
+	dotnet --help
+
+criando uma aplicação console
+	dotnet new console -n DigitalInnovationOne
+
+reinstalando os pacotes 
+	dotnet restore
+
+biuld
+	dotnet build
