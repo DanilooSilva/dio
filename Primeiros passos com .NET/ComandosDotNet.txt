@@ -1,3 +1,5 @@
+Para versão do dotnet
+	dotnet --version
 ajuda do dotnet
 	dotnet --help
 
@@ -9,3 +11,18 @@ reinstalando os pacotes
 
 biuld
 	dotnet build
+
+
+CLI - Command-Line Interface -> ILC - Interface de Linha de Comando
+
+
+dotnet --version 				-> versão do dotnet
+dotnet --help				-> lista de comendos ou ajuda 
+dotnet --info				-> informções do dotnet detalhados
+dotnet new					-> lista os tipos de projetos que pode criar
+dotnet new -- list --tag web		-> lista apenas os tipos de projetos web 
+dotnet new --help				-> lista os comando que posso usar com o new
+dotnet new console -n NomeProjeto	-> criando o projeto
+dotnet run					-> executar um projeto
+dotnet build				-> compilar o projeto
+dotnet restore 				-> resgata dependencias do projeto

@@ -1,0 +1,8 @@
+
+criar uma solution -> dotnet new sln --name ExemploPOO
+
+criar um diretorio -> mkdir ExemploPOO 
+
+crair um projeto -> dotnet new console
+
+add o projeto a solution -> dotnet sln add .\ExemploPOO\ExemploPOO.csproj
